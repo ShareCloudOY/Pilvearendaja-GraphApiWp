@@ -2,7 +2,7 @@
 
 ## Summary
 
-Part of "Pilvelahenduste arendaja koolitus":
+Part of [Pilvelahenduste arendaja koolitus](https://www.bcskoolitus.ee/koolitus/pilvelahenduste-arendaja-koolitus/):
 
 Ülesanne 9: Microsoft Graph API kasutamine SharePointi veebiosas:
 
