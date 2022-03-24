@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-api-scopes-tutorial",
+    "libraryId": "3d1922b9-d976-4eea-9aad-abf50168e26c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-api-scopes-tutorial",
+    "solutionShortDescription": "spfx-api-scopes-tutorial description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
